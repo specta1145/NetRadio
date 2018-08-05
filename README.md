@@ -1,4 +1,4 @@
 # NetRadio
-NetRadio is a Windows appliation to stream and manage radio stations.
+NetRadio plays internet radio streams and manage your favorite stations. The program is kept as simple as possible, self-explanatory and  resource-saving.
 
 ![Screenshot](Screenshot.png)
